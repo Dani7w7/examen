@@ -1,0 +1,22 @@
+body{
+
+    background-color: #f4e83f;
+    background-image: linear-gradient(155deg, #f45a3f 0%, #1652a0 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    align-items: center;
+    text-align: center;
+
+}
+
+img:hover{
+
+    width: 30%;
+
+}
+
+p{
+
+    color: rgb(30, 233, 233);
+
+}
